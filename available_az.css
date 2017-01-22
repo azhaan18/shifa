@@ -1,0 +1,339 @@
+body{
+ background-color: #807d7e;
+background-image: url(https://www.transparenttextures.com/patterns/brushed-alum.png);
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+font-family:'Ubuntu';
+  max-width:100%;
+  overflow-x:hidden;
+  
+}
+.footer-section{
+  margin-bottom:0px;
+}
+.main-page{
+     height: 800px;
+    width: 1349px;
+}
+.header{
+  height: 90px;
+    width: 100%;
+}
+.site-logo img{
+  width: 100px;
+    height: 90px;
+}
+
+.float-left{
+  float:left;
+  position:relative;
+}
+.float-right{
+  float:right;
+  position:relative;
+}
+.title{
+ margin: 3px auto;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    border-top: 2px solid #555;
+    width: 100%;
+    border-bottom: 2px solid #555;
+    position: relative;
+    top: 93px;
+}
+.title a{
+  text-decoration:none;
+  padding:0px 30px 0px 30px;
+  color:#FFF;
+  border-right:2px solid #000;
+  position:relative;
+  top:8px;
+  right:170px;
+  text-align:center;
+}
+.title a:hover{color: #222;}
+.no-border{
+  border:none !important;
+}
+.form{
+	border: 5px solid #eee;
+	border-radius:10px;
+    width: 60%;
+    margin: 134px auto;
+}
+#name{
+	
+}
+
+
+.emergency{
+  margin: 20px auto;
+    height: 40px;
+    width: 200px;
+    position: relative;
+    float: right;
+    top: 89px;
+}
+.emergency img{
+  width: 40px;
+    height: 40px;
+    float: left;
+    position: relative;
+    right: 60px;
+    border: 1px solid #ddd;
+    border-radius: 50%
+}
+.emergency p{
+  float:right;
+  position:relative;
+  bottom:53px;
+  font-size:16px;
+  right:20px;
+  text-align:center;
+  border-bottom:1px solid #222;
+}
+.find-and-donate{
+  width: 98%;
+    height: 317px;
+    margin: 200px auto;
+    border: 3px solid #555;
+    border-radius: 10px;
+  right:18px;
+  position:relative;
+}
+.find {
+    width: 400px;
+    text-align: center;
+    margin-top: 6px;
+    font-size: 25px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+    height: 280px;
+  float:left;
+}
+
+.find img:hover{
+  border:5px solid #7a1f1f;
+  border-radius:10px;
+}
+.find img{
+  height:280px;
+  width:400px;
+  border:2px solid #7a1f1f;
+  border-radius:10px;
+}
+
+.donate{
+  width: 400px;
+    text-align: center;
+    margin-top: 6px;
+    font-size: 25px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    position: relative;
+    right: 19px;
+    height: 280px;
+    top: 10px;
+}
+.donate img:hover{
+  border:5px solid #7a1f1f;
+  border-radius:10px;
+}
+.donate img{
+  height:280px;
+  width:400px;
+  border:2px solid #7a1f1f;
+  border-radius:10px;
+  position:relative;
+  right:3px;
+  bottom:2px;
+}
+.book{
+  position:relative;
+  top:17px;
+  left:28px;
+}
+.book img{
+  height:280px;
+  width:350px;
+  border:2px solid #7a1f1f;
+  border-radius:10px;
+}
+.welcome-info{
+  width: 1100px;
+    height: 400px;
+    margin: 35px auto;
+    position: relative;
+    top: 30px;
+}
+.image{
+  position: relative;
+    float: left;
+    width: 500px;
+    height: 500px;
+    border: 5px solid #eee;
+    border-radius: 8px;
+    top: 20px;
+}
+.image img{
+  width:500px;
+  height:500px;
+  border:1px solid #ccc;
+  border-radius:8px;
+  position:relative;
+  float:left;
+  bottom:1px;
+  right:1px;
+}
+.myslides{
+  display:none;
+}
+.facts{
+  background-color: #fffce5;
+    background-image: url(https://s24.postimg.org/i54emfe5x/page.jpg);
+    float: right;
+    position: relative;
+    right: 50px;
+    bottom: 6px;
+    border: 5px solid #eee;
+    border-radius: 8px;
+    height: 500px;
+    width: 500px;
+    line-height: 30px;
+  }
+.facts h1{
+  text-align:center;
+  font-size:40px;
+  line-height:45px;
+}
+.facts-ul{
+  height: 400px;
+    width: 500px;
+    line-height: 30px;
+    font-size: 23px;
+}
+.info{
+    background: url(https://s30.postimg.org/3ock0le4h/image.jpg);
+    border: 4px solid #7a1f1f;
+    border-radius: 10px;
+    width: 98%;
+    margin: 103px auto;
+    position: relative;
+    bottom: 0px;
+    right: 18px;
+    height: 650px;
+}
+.info h1{
+  float:right;
+  position:relative;
+  height:40px;
+  right:90px;
+  font-size:65px;
+  bottom:30px;
+}
+.info a{
+  height:200px;
+  text-decoration:none;
+  color:#222;
+  font-size:20px;
+  line-height:30px;
+}
+.info a:hover{color: #eee;}
+.info img{
+  position:relative;
+  left:596px;
+  top:347px;
+  height:90px;
+  width:70px;
+}
+.information{
+      float: right;
+    position: relative;
+    top: 100px;
+    left: 350px;
+}
+.activities{
+  height: 420px;
+    width: 98%;
+    margin: 0px 0 0 2px;
+    position: relative;
+    bottom: 130px;
+}
+.recent-activities{
+  width: 100%;
+    height: 340px;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    text-align: center;
+  
+}
+.recent-activities h1{
+  text-decoration:underline;
+}
+.recent-activities img{
+  width: 100%;
+    height: 650px;
+    position: relative;
+    bottom: 33px;
+    right: 12px;
+    border: 4px solid #7a1f1f;
+    border-radius: 10px;
+}
+.footer-section{
+     background-color: #807d7e;
+    background-image: url(https://www.transparenttextures.com/patterns/black-linen.png);
+    height: 510px;
+    width: 100%;
+    right:5px;
+    position: relative;
+    border: 5px solid #7a1f1f;
+    border-radius: 10px;
+    font-weight: bold;
+    bottom: 535px;
+}
+.footer{
+  position:relative;
+  bottom:20px;
+  width:90%;
+  margin:0px auto;
+}
+.down-title{
+  margin:20px auto ;
+  position:relative;
+  height:375px;
+  width:1200px;
+  left:150px;
+}
+
+.section{
+  width:285px;
+  height:350px;
+  position:relative;
+  float:left;
+  margin:10px 0 0 10px;
+  border:2px solid #333;
+  color:#222;
+  border-radius:5px;
+  text-align:center;
+}
+.section h1{
+  text-decoration:underline;
+}
+.section p{
+  font-size:20px;
+  margin-top:40px;
+}
+.about-us{
+  top:15px;
+}
+.about-us a{
+  padding:0 10px 0 10px;
+  text-decoration:none;
+  color:#222;
+}
+.about-us a:hover{
+  color:white;
+}
