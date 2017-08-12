@@ -7,7 +7,7 @@ By taking the services of Shifa to all the major cities as well as providing the
 
 Intructions to run website on your local pc :- 
 
-1)Install a local servers for apache,mysql and php
+1)Install a local servers for apache,mysql,anaconda and php
 
 2)Paste all the files of master branch in installation folder of appliacation/htdocs/blood
 
